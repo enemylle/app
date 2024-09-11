@@ -33,8 +33,9 @@ Como um leg0o, você irá utilizar peças para criar algoritmos, ou seja, para r
 - [x] Boolean: true, false
 
 ## Operadores
-- [x] Operador de atribuição de valor
-- [x] Operador de Concatenação
+- [x] Operador de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: == != <= >= < >
 
 ## Estrutura de dados:
 
@@ -61,6 +62,7 @@ Como um leg0o, você irá utilizar peças para criar algoritmos, ou seja, para r
 # Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
