@@ -36,12 +36,14 @@ Como um leg0o, você irá utilizar peças para criar algoritmos, ou seja, para r
 - [x] Operador de atribuição de valor: =
 - [x] Operador de concatenação: +
 - [x] Operadores de comparação: == != <= >= < >
+- [x] Spread operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
