@@ -57,3 +57,7 @@ Como um leg0o, você irá utilizar peças para criar algoritmos, ou seja, para r
 # Estrutura de repetição
 
 - [x] while
+
+# Condicionais
+
+- [x] switch
