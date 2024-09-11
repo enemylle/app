@@ -53,3 +53,7 @@ Como um leg0o, você irá utilizar peças para criar algoritmos, ou seja, para r
  - [x] criar, passar argumento
  - [x] executar
  - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
