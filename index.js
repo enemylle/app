@@ -12,7 +12,7 @@ const start = () => {
       case "sair":
         return
     }
-  }
-    
+  }    
 }
+
 start()
