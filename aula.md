@@ -61,3 +61,12 @@ Como um leg0o, você irá utilizar peças para criar algoritmos, ou seja, para r
 # Condicionais
 
 - [x] switch
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'Inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+ 
+- [x] Uso de funções assíncronas (async/await)
