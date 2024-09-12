@@ -1,6 +1,18 @@
 [
   {
-    "value": "Andar",
-    "checked": true
+    "value": "Ler por 1 hora.",
+    "checked": false
+  },
+  {
+    "value": "Tocar teclado por 2 horas.",
+    "checked": false
+  },
+  {
+    "value": "Ouvir Músicas por 1 hora.",
+    "checked": false
+  },
+  {
+    "value": "Andar por 20 minutos.",
+    "checked": false
   }
 ]
